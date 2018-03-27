@@ -1,7 +1,7 @@
 <?php
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'MyCompany_ConfigurableProductPriceRanges',
+    'GraceChurchMentor_ConfigurableProductPriceRanges',
     __DIR__
 );
 ?>

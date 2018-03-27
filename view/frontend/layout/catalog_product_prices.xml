@@ -5,8 +5,8 @@
             <argument name="configurable" xsi:type="array">
                 <item name="prices" xsi:type="array">
                     <item name="final_price" xsi:type="array">
-                        <item name="render_template" xsi:type="string">MyCompany_ConfigurableProductPriceRanges::product/price/price_range.phtml</item>
-                        <item name="amount_render_template" xsi:type="string">MyCompany_ConfigurableProductPriceRanges::product/price/amount/default.phtml</item>
+                        <item name="render_template" xsi:type="string">GraceChurchMentor_ConfigurableProductPriceRanges::product/price/price_range.phtml</item>
+                        <item name="amount_render_template" xsi:type="string">GraceChurchMentor_ConfigurableProductPriceRanges::product/price/amount/default.phtml</item>
                     </item>
                 </item>
             </argument>
